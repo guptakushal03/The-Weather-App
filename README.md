@@ -30,8 +30,7 @@ This project is a weather application website that utilizes the OpenWeatherMap A
 
 ## Website
 
-The website is hosted at [github.io/The-Weather-App](https://github.io/The-Weather-App).
-
+The website is hosted at [The-Weather-App](https://guptakushal03.github.io/The-Weather-App/).
 ## Acknowledgements
 
 - Icons used in the project are provided by [OpenWeatherMap](https://openweathermap.org/weather-conditions).
