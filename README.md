@@ -28,9 +28,6 @@ This project is a weather application website that utilizes the OpenWeatherMap A
 
 ![image](https://github.com/guptakushal03/The-Weather-App/assets/98078018/0a4e792c-2afe-4324-8d28-cb7d7d3468f7)
 
-## Website
-
-The website is hosted at [The-Weather-App](https://guptakushal03.github.io/The-Weather-App/).
 ## Acknowledgements
 
 - Icons used in the project are provided by [OpenWeatherMap](https://openweathermap.org/weather-conditions).
