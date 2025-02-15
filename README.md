@@ -35,3 +35,8 @@ The website is hosted at [The-Weather-App](https://guptakushal03.github.io/The-W
 
 - Icons used in the project are provided by [OpenWeatherMap](https://openweathermap.org/weather-conditions).
 - This project utilizes the [OpenWeatherMap API](https://openweathermap.org/api) for fetching weather data.
+
+ ---
+
+## License
+This project is open-source and available under the MIT License.
