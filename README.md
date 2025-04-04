@@ -1,5 +1,3 @@
-Got it. Here's the updated README.md file reflecting the changes:
-
 # Weather App Website
 
 This project is a weather application website that utilizes the OpenWeatherMap API to fetch and display weather information. It offers features such as displaying current weather conditions, including temperature, humidity, wind speed, and weather icons corresponding to the current weather. Additionally, it provides a 5-day weather forecast. Users have the option to allow the application to use their current location for accurate weather data.
